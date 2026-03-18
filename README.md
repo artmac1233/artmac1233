@@ -41,6 +41,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-purple?logo=MySQL)
+![PowerBI](https://img.shields.io/badge/-PowerBI-pink?logo=PowerBI)
 
 ---
 

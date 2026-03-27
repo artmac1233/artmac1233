@@ -1,7 +1,14 @@
 # 👋 Olá, eu sou Arthur
 
-💻 Estudante de Computação na UFF  
-🧪 Entusiasta de QA focado em automação de testes e testes de API
+💻 Estudante de Computação na UFF (5º período) 
+🚀 Entusiasta como Desenvolvedor e Analista de Dados e com interesse em QA e testes de API 
+
+---
+
+📌 Interesses:
+- Backend
+- QA / Test Automation
+- Análise de Dados
 
 ---
 

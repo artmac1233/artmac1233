@@ -22,6 +22,7 @@
 
 
 ![React](https://img.shields.io/badge/-React-blue?logo=react)
+![flask](https://img.shields.io/badge/-Flask-yellow?logo=flask)
 
 ---
 

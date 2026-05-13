@@ -66,4 +66,4 @@
 
 💼 **LinkedIn:** https://www.linkedin.com/in/arthur-macedo-84166b2ab
 
-🐙 **GitHub:** https://github.com/Arthur-Macedo
+🐙 **GitHub:** https://github.com/artmac1233

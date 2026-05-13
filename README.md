@@ -8,7 +8,7 @@
 📌 Interesses:
 - Developer FullStack
 - QA / Test Automation
-- Análise de Dados
+- Data Analyst
 
 ---
 

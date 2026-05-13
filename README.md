@@ -6,7 +6,7 @@
 ---
 
 📌 Interesses:
-- Backend
+- Developer FullStack
 - QA / Test Automation
 - Análise de Dados
 
